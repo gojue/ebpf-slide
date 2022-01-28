@@ -39,8 +39,9 @@ Collection of Linux eBPF slides/documents.
 
 
 ## observability monitoring 观测监控
-* [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
-* [Performance Analysis Superpowers with Linux eBPF](USENIX_ATC2017_BPF_superpowers.pdf)
+* [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](observability_monitoring/Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
+* [Performance Analysis Superpowers with Linux eBPF](observability_monitoring/USENIX_ATC2017_BPF_superpowers.pdf)
+* [Monitoring_Kafka_Without_Instrumentation_Using_eBPF](observability_monitoring/Monitoring_Kafka_Without_Instrumentation_Using_eBPF.pdf)
 
 ## eBPF基础知识
 * [eBPF Library Ecosystem Overview in Go, Rust, Python, C and More - Kyle Quest](eBPF_basic/eBPF_Library_Ecosystem_Overview_in_Go_Rust_Python_C_and_More.pdf)
