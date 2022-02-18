@@ -31,6 +31,7 @@ Collection of Linux eBPF slides/documents.
 * [bpf-rethinkingthelinuxkernel](networking/bpf-rethinkingthelinuxkernel-200303183208.pdf)
 * [bpf-turninglinuxintoamicroservices-awareoperatingsystem](networking/bpf-turninglinuxintoamicroservices-awareoperatingsystem-181105194737.pdf)
 * [How-eBPF_XDP-Will-Revolutionize-the-Telco_5G-Space](networking/How-eBPF_XDP-Will-Revolutionize-the-Telco_5G-Space.pdf)
+* [sigcomm-2018-netronome-eBPF-XDP-david_beckett-jakub_kicinski](networking/sigcomm-2018-netronome-eBPF-XDP-david_beckett-jakub_kicinski.pdf)
 
 ## tracing profiling 跟踪抽样
 * [Aug19_Designing_a_gRPC_Interface_for_Kernel_Tracing_with_eBPF_Leonardo_DiDonato](tracing_profiling/Aug19_Designing_a_gRPC_Interface_for_Kernel_Tracing_with_eBPF_Leonardo_DiDonato.pdf)
@@ -48,6 +49,7 @@ Collection of Linux eBPF slides/documents.
 * [Beginners_guide_to_eBPF_programming_for_networking](eBPF_basic/Beginners_guide_to_eBPF_programming_for_networking.pdf)
 * [高效入门eBPF-西安邮电大学-贺东升](eBPF_basic/高效入门eBPF-西安邮电大学-贺东升.pdf)
 * [LIz_Rice-Beginners_guide_to_eBPF](eBPF_basic/LIz_Rice-Beginners_guide_to_eBPF.pdf)
+* [XDP Hardware Offload: Current Work, Debugging and Edge Cases](eBPF_basic/xdp-hardware-offload-current-work-debugging-and-edge-cases.pdf)
 
 ## eBPF进阶知识
 * [LPC21_Towards_truly_portable_eBPF](eBPF_advanced/LPC21_Towards_truly_portable_eBPF.pdf)
