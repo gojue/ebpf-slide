@@ -10,5 +10,9 @@
 # 跟踪、抽样 
 
 
+# eBPF 进阶知识
+* [BTF deduplication and Linux kernel BTF](https://nakryiko.com/posts/btf-dedup/)
+
+
 # eBPF System Security  eBPF系统自身安全
 * [Kernel Pwning with eBPF: a Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
