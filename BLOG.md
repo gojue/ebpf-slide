@@ -12,7 +12,8 @@
 
 # eBPF 进阶知识
 * [BTF deduplication and Linux kernel BTF](https://nakryiko.com/posts/btf-dedup/)
-
+* [BPF CO-RE (Compile Once – Run Everywhere)](https://nakryiko.com/posts/bpf-portability-and-co-re/)
+* [BPF CO-RE reference guide](https://nakryiko.com/posts/bpf-core-reference-guide/#)
 
 # eBPF System Security  eBPF系统自身安全
 * [Kernel Pwning with eBPF: a Love Story](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
