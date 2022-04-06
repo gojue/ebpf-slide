@@ -39,6 +39,7 @@ Collection of Linux eBPF slides/documents.
 * [Why is my eBPF code slow_ - Simar Singh](tracing_profiling/Why_is_my_eBPF_code_slow-Simar_Singh.pdf)
 * [Coverage_for_eBPF_programs](tracing_profiling/Coverage_for_eBPF_programs.pdf)
 * [Kernel tracing with ebpf-Unlocking God Mode on Linux](tracing_profiling/kernel_tracing_with_ebpf.pdf)
+* [COSCUP 2016 – Linux Kernel Tracing](tracing_profiling/linux-kernel-tracing.pdf)
 
 ## observability monitoring 观测监控
 * [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](observability_monitoring/Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
