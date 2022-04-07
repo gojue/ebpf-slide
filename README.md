@@ -40,6 +40,7 @@ Collection of Linux eBPF slides/documents.
 * [Coverage_for_eBPF_programs](tracing_profiling/Coverage_for_eBPF_programs.pdf)
 * [Kernel tracing with ebpf-Unlocking God Mode on Linux](tracing_profiling/kernel_tracing_with_ebpf.pdf)
 * [COSCUP 2016 – Linux Kernel Tracing](tracing_profiling/linux-kernel-tracing.pdf)
+* [Kernel Analysis Using eBPF Daniel Thompson Linaro](tracing_profiling/Kernel-Analysis-Using-eBPF-Daniel-Thompson-Linaro.pdf)
 
 ## observability monitoring 观测监控
 * [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](observability_monitoring/Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
