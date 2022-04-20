@@ -23,6 +23,7 @@ Collection of Linux eBPF slides/documents.
 * [Creating and countering the next generation of Linux rootkits using eBPF.pdf](security/Creating_and_countering_the_next_generation_of_Linux_rootkits_using_eBPF.pdf)
 * [us-21-With-Friends-Like-EBPF-Who-Needs-Enemies.pdf](security/us-21-With-Friends-Like-EBPF-Who-Needs-Enemies.pdf)
 * [Mitigating Attacks on a Supercomputer with KRSI.pdf](security/Mitigating_Attacks_on_a_Supercomputer_with_KRSI.pdf)
+* [Security Observability with eBPF Measuring Cloud Native Security Through eBPF Observability](security/isovalent_security_observability.pdf)
 
 
 ## networking 网络          
