@@ -63,7 +63,7 @@ Collection of Linux eBPF slides/documents.
 
 ## android
 * [eBPF-super-powers-on-ARM64-and-android](android/eBPF-super-powers-on-ARM64-and-android.pdf)
-
+* [eBPF Android Reverse Engineering Superpowers](android/eBPF-Android-Reverse-Engineering-Superpowers.pdf)
 
 # 经典BLOG/站点
 
