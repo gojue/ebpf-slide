@@ -7,6 +7,7 @@ Collection of Linux eBPF slides/documents.
 # PDF/slide列表
 
 ## Security 安全
+* [US-22-Fournier-Return-To-Sender Detecting kernel exploits with eBPF.pdf](security/US-22-Fournier-Return-To-Sender.pdf)
 * [Stories from BPF Security Auditing at Google - Brendan Jackman.pdf](security/Stories_from_BPF_Security_Auditing_at_Google_-_Brendan_Jackman.pdf)
 * [eBPF Summit 2021 - Stories from BPF Security Auditing at Google - Brendan Jackman.pdf](security/eBPF_Summit_2021_-_Stories_from_BPF_Security_Auditing_at_Google_-_Brendan_Jackman.pdf)
 * [Think eBPF for Kernel Security Monitoring - Falco at Apple.pdf](security/Think_eBPF_for_Kernel_Security_Monitoring_-_Falco_at_Apple.pdf)
@@ -56,6 +57,8 @@ Collection of Linux eBPF slides/documents.
 * [XDP Hardware Offload: Current Work, Debugging and Edge Cases](eBPF_basic/xdp-hardware-offload-current-work-debugging-and-edge-cases.pdf)
 
 ## eBPF进阶知识
+* [Peeking into BPF verifier](eBPF_advanced/Peeking_into_BPF_verifier.pptx)
+* [eBPF ELFs JMPing Through the Windows](eBPF_advanced/eBPF_ELFs_JMPing_Through_the_Windows.pdf)
 * [LPC21_Towards_truly_portable_eBPF](eBPF_advanced/LPC21_Towards_truly_portable_eBPF.pdf)
 * [bpf internals tracing examples brendan gregg](eBPF_advanced/bpf_internals_tracing_examples_brendan_gregg.pdf)
 * [demystify-ebpf-jit-compiler](eBPF_advanced/demystify-ebpf-jit-compiler.pdf)
