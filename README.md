@@ -69,6 +69,7 @@ Collection of Linux eBPF slides/documents.
 * [eBPF-super-powers-on-ARM64-and-android](android/eBPF-super-powers-on-ARM64-and-android.pdf)
 * [eBPF Android Reverse Engineering Superpowers](android/eBPF-Android-Reverse-Engineering-Superpowers.pdf)
 * [BPFroid Robust Real Time Android Malware Detection Framework](android/BPFroid-Robust_Real_Time_Android_Malware_Detection_Framework.pdf)
+* [Modernizing Android BPF The Android BPF Security Model](android/LPC2023_Modernizing_Android_BPF_The_Android_BPF_Security_Model.pdf)
 
 
 # 经典BLOG/站点
